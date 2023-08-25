@@ -24,6 +24,7 @@ serverless package
 
 - `--stage` or `-s` The stage in your service that you want to deploy to.
 - `--region` or `-r` The region in that stage that you want to deploy to.
+- `--config` or `-c` The name of your configuration file, if other than serverless.yml|.yaml|.js|.json.
 - `--package` or `-p` path to the custom packaging directory you want.
 
 ## Examples
